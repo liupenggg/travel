@@ -2,7 +2,7 @@
 
 旅游网站
 
-技术栈：spring，jdbc，jedis
+技术栈：maven，Spring，Servlet，jdbc，jedis
 
 数据库文件：travel.sql
 
