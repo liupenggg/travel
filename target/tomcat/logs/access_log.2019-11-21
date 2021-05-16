@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:23:58:51 +0800] "GET /travel/register.html HTTP/1.1" 304 - http-bio-80-exec-2 150
+0:0:0:0:0:0:0:1 - - [21/Nov/2019:23:58:57 +0800] "GET /travel/checkCode HTTP/1.1" 200 256 http-bio-80-exec-3 5505
