@@ -9,6 +9,6 @@
 
 # 首页展示
 
-![login](https://github.com/liupenggg/travel/tree/master/screenshots/index.png)
+![index](https://github.com/liupenggg/travel/tree/master/screenshots/index.png)
 
 
